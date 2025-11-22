@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<applications>
+<app_repo id="uas-port">
   <app>
     <name>Launch ze Hackmii Installer</name>
     <description>Launches the Hackmii Installer so you can install/uninstall the HBC/BootMii without using Letterbomb/str2hax or whatever they use these days.</description>
