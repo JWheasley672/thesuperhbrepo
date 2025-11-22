@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <app_repo id="uas-port">
-  <app>
-    <name>Launch ze Hackmii Installer</name>
-    <description>Launches the Hackmii Installer so you can install/uninstall the HBC/BootMii without using Letterbomb/str2hax or whatever they use these days.</description>
-    <version>1.0</version>
-    <url>https://jwheasley672.github.io/thesuperhbrepo/LaunchMii.zip</url>
-    <author>Joe Wheasley</author>
-    <category>Utility</category>
-  </app>
+<app>
+<name>Launch ze Hackmii Installer</name>
+<description>Launches the Hackmii Installer so you can install/uninstall the HBC/BootMii without using Letterbomb/str2hax or whatever they use these days.</description>
+<version>1.0</version>
+<url>https://jwheasley672.github.io/thesuperhbrepo/LaunchMii.zip</url>
+<author>Joe Wheasley</author>
+<category>Utility</category>
+</app>
 </app_repo>
